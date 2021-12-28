@@ -2,11 +2,10 @@ PREDEF:
   - preface.re
 
 CHAPS:
-  - test.re
+  - emoi.re
+  - mohican.re
 
 APPENDIX:
 
 POSTDEF:
   - postscript.re
-  - bib.re
-
