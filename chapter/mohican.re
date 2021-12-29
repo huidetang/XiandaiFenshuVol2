@@ -1,7 +1,7 @@
 = モヒカン族のすゝめ 〜マサカリの投げ方・受け方〜
 
-//info[この章の著者]{
-イオシフ恢徳野人 <huideyeren@gmail.com>
+//flushright{
+@<b>{著者：イオシフ恢徳野人 <huideyeren@gmail.com>}
 //}
 
 == 「マサカリ」ってなんだ？
