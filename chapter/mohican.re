@@ -18,19 +18,19 @@
 また、とある技術系コミュニティの勉強会@<endnote>{dogenzakaLT}において、
 「マサカリはここに置いてきてください」という掲示と共に、マサカリが置かれていた、ということもあったそうです。
 
-//endnote[dogenzakaLT][詳しくはねとらぼの該当記事（@<href>{http://nlab.itmedia.co.jp/nl/articles/1501/15/news170.html}、2015年1月15日付け）参照。]
+//endnote[dogenzakaLT][詳しくはねとらぼの該当記事（ http://nlab.itmedia.co.jp/nl/articles/1501/15/news170.html 、2015年1月15日付け）参照。]
 
 == 「マサカリ」の語源と「モヒカン族」
 
 この「マサカリ」ですが、一説では「モヒカン族」の武器として
 たとえられていたのが起源@<endnote>{masakari_roots}とされています。
 
-//endnote[masakari_roots][詳しくはkaityo256氏の、Qiitaの『マサカリの起源について』（@<href>{http://qiita.com/kaityo256/items/d7d8f7a0e522895c8f5d}）参照。]
+//endnote[masakari_roots][詳しくはkaityo256氏の、Qiitaの『マサカリの起源について』（ http://qiita.com/kaityo256/items/d7d8f7a0e522895c8f5d ）参照。]
 
 ただ、実際にはTAKANO Mitsuhiro氏のツイート@<endnote>{masakari_tweet}によると、Perlコミュニティなどで使われていたようです。
 もしかすると野球のマサカリ投法から連想されたのかもしれません。
 
-//endnote[masakari_tweet][@<href>{https://twitter.com/takano32/status/844532348733480960}]
+//endnote[masakari_tweet][https://twitter.com/takano32/status/844532348733480960]
 
 先ほどのkaityo256氏の調査によると、2012年頃には「マサカリ」という表現が定着しています。
 
@@ -44,7 +44,7 @@
 間違えた時代認識に基づいて書かれた地図の誤りを指摘する人たち@<endnote>{fake_map}のように
 似たようなことが起こっていたりします。
 
-//endnote[fake_map][@<href>{Togetterのまとめ（https://togetter.com/li/439183}）参照のこと。]
+//endnote[fake_map][Togetterのまとめ（ https://togetter.com/li/439183 ）参照のこと。]
 
 また、その「モヒカン族」に対する考察をする人たちもおり、
 以下のような「宣言」というものが挙げられていたりします。
@@ -55,7 +55,7 @@
 
 どんな努力をしても絶対に覆せない事柄を根拠にするな。「差別」という外道に堕ちる。
 
-==== 宣言
+==== モヒカン族の宣言
 
  1. 発言者の社会的地位を気にせず、言説だけに注目する
  2. 事実のやりとりに、余計な装飾語はいらない
@@ -78,7 +78,7 @@
  : 差異
   お互いの違いを確認することで、我々はつながります。「自分らにとって良いから他の人にも良いはずだ」とは思いません。
 
-（原文：はてなキーワード「モヒカン族」のページ @<href>{http://d.hatena.ne.jp/keyword/%a5%e2%a5%d2%a5%ab%a5%f3%c2%b2?kid=119725#mohicandeclaration}より）
+（原文：はてなキーワード「モヒカン族」のページ http://d.hatena.ne.jp/keyword/%a5%e2%a5%d2%a5%ab%a5%f3%c2%b2?kid=119725#mohicandeclaration より）
 
 ===[/column]
 
@@ -91,7 +91,7 @@
 
 ===[column] ムラビト宣言
 
-==== 宣言
+==== ムラビトの宣言
 
  1. 発言者の社会的地位を考慮する。偉い人の失言は大目に見る
  2. 内容の前に礼節を知るべし。敬語、修飾語が適切に使われていない文は見るに値しない
@@ -114,7 +114,7 @@
  : 差異
    お互いの差異は努力で埋めることが出来ます。自分が良いと思ったことを積極的に人に対して行いましょう。
 
-（原文：はてなキーワード「モヒカン族」のページ @<href>{http://d.hatena.ne.jp/keyword/%a5%e2%a5%d2%a5%ab%a5%f3%c2%b2?kid=119725#villagedeclaration}より）
+（原文：はてなキーワード「モヒカン族」のページ http://d.hatena.ne.jp/keyword/%a5%e2%a5%d2%a5%ab%a5%f3%c2%b2?kid=119725#villagedeclaration より）
 
 ===[/column]
 
@@ -163,7 +163,7 @@
 ということに気づきました。
 
 （「ダイバーシティの本質はそういうことじゃないんじゃないかな」
-@<href>{http://simplearchitect.hatenablog.com/entry/2016/04/25/081532} より）
+http://simplearchitect.hatenablog.com/entry/2016/04/25/081532 より）
 //}
 
 この発言では、牛尾氏自身がADHDということをこの記事でカミングアウトしています。
@@ -230,7 +230,7 @@
 
 ・ 礼儀をもって、正しく意見を交換しよう。それがコミュニティだ。
 
-（「技術モヒカンに中指を立てる」@<href>{http://blog.hirokiky.org/2013/07/17/things_you_should_learn_from_geeks.html}より）
+（「技術モヒカンに中指を立てる」 http://blog.hirokiky.org/2013/07/17/things_you_should_learn_from_geeks.html より）
 //}
 
 私は、これもその通りだと思います。
